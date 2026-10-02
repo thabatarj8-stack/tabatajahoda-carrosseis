@@ -1,0 +1,13 @@
+{
+  "_leia": "Paletas. 'autoridade' foi extraida dos carrosseis ja publicados de @tabatajahoda. 'curso' e PROVISORIA: troque pelos HEX oficiais do curso e rode node src/render.mjs.",
+  "autoridade": {
+    "escuro": "#141412", "claro": "#F3EFE4", "acento": "#C2AB77", "acentoForte": "#897037",
+    "textoEscuro": "#F3EFE4", "textoClaro": "#141412", "suave": "#8A8578",
+    "serif": "Bodoni Moda", "sans": "Inter", "assinatura": "TABATA JAHODA"
+  },
+  "curso": {
+    "escuro": "#3A1F2B", "claro": "#F7EDE8", "acento": "#D98C8C", "acentoForte": "#A4505E",
+    "textoEscuro": "#F7EDE8", "textoClaro": "#3A1F2B", "suave": "#9C8088",
+    "serif": "Bodoni Moda", "sans": "Inter", "assinatura": "IA PARA PROFISSIONAIS DA BELEZA"
+  }
+}
