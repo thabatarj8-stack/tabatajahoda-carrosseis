@@ -6,24 +6,104 @@
       "tema": "curso",
       "titulo": "Curso | Dias vazios",
       "slides": [
-        { "tipo": "capa", "kicker": "IA para profissionais da beleza", "titulo": "Terça vazia", "destaque": "não é falta de cliente.", "sub": "É falta de convite." },
-        { "tipo": "texto", "kicker": "O padrão", "titulo": "Toda agenda tem dias que esvaziam.", "corpo": "Segunda, terça, quarta. Quem atende beleza conhece. A cliente não sumiu: ela só não lembrou de você naquela semana." },
-        { "tipo": "lista", "kicker": "3 convites", "titulo": "O que mandar na segunda de manhã.", "itens": [["Horário aberto", "\"Abri 2 horários na terça à tarde. Quer um?\""], ["Manutenção", "\"Já faz 4 semanas do seu último atendimento. Vamos agendar?\""], ["Lista de espera", "\"Você pediu para eu avisar quando abrisse horário. Abriu.\""]] },
-        { "tipo": "texto", "kicker": "Onde a IA entra", "titulo": "Você decide quem recebe. A IA escreve no seu tom.", "corpo": "Peça ao ChatGPT 3 versões de cada convite com o seu jeito de falar. Revise e envie. O trabalho de escrever sai das suas mãos; a decisão continua com você." },
-        { "tipo": "cta", "kicker": "No curso", "titulo": "IA para profissionais da beleza", "corpo": "Convites, lembretes e respostas de preço prontos para o seu dia a dia.", "acao": "Lista de espera no link da bio" }
+        {
+          "tipo": "capa",
+          "kicker": "IA para profissionais da beleza",
+          "titulo": "Terça vazia",
+          "destaque": "não é falta de cliente.",
+          "sub": "É falta de convite."
+        },
+        {
+          "tipo": "texto",
+          "kicker": "O padrão",
+          "titulo": "Toda agenda tem dias que esvaziam.",
+          "corpo": "Segunda, terça, quarta. Quem atende beleza conhece. A cliente não sumiu: ela só não lembrou de você naquela semana."
+        },
+        {
+          "tipo": "lista",
+          "kicker": "3 convites",
+          "titulo": "O que mandar na segunda de manhã.",
+          "itens": [
+            [
+              "Horário aberto",
+              "\"Abri 2 horários na terça à tarde. Quer um?\""
+            ],
+            [
+              "Manutenção",
+              "\"Já faz 4 semanas do seu último atendimento. Vamos agendar?\""
+            ],
+            [
+              "Lista de espera",
+              "\"Você pediu para eu avisar quando abrisse horário. Abriu.\""
+            ]
+          ]
+        },
+        {
+          "tipo": "texto",
+          "kicker": "Onde a IA entra",
+          "titulo": "Você decide quem recebe. A IA escreve no seu tom.",
+          "corpo": "Peça ao ChatGPT 3 versões de cada convite com o seu jeito de falar. Revise e envie. O trabalho de escrever sai das suas mãos; a decisão continua com você."
+        },
+        {
+          "tipo": "cta",
+          "kicker": "No curso",
+          "titulo": "IA para profissionais da beleza",
+          "corpo": "Convites, lembretes e respostas de preço prontos para o seu dia a dia.",
+          "acao": "Conheça o curso no link da bio"
+        }
       ],
-      "caption": "Terça vazia raramente é falta de cliente. Na maioria das vezes, é falta de convite.\n\nSalve os 3 convites do carrossel e teste na próxima segunda de manhã:\n1. Horário aberto\n2. Manutenção\n3. Lista de espera\n\nA IA escreve as versões no seu tom. Quem decide para quem mandar é você.\n\nIsso e muito mais está no curso IA para profissionais da beleza. Entre na lista de espera pelo link da bio.\n\n#manicure #designdesobrancelhas #lashdesigner #esteticista #cabeleireira #inteligenciaartificial"
+      "caption": "Terça vazia raramente é falta de cliente. Na maioria das vezes, é falta de convite.\n\nSalve os 3 convites do carrossel e teste na próxima segunda de manhã:\n1. Horário aberto\n2. Manutenção\n3. Lista de espera\n\nA IA escreve as versões no seu tom. Quem decide para quem mandar é você.\n\nIsso e muito mais está no Agenda em Movimento, o curso de IA para profissionais da beleza. Link na bio.\n\n#manicure #designdesobrancelhas #lashdesigner #esteticista #cabeleireira #inteligenciaartificial"
     },
     {
       "id": "v2-02",
       "tema": "autoridade",
       "titulo": "Autoridade | Resposta certa, caminho errado",
       "slides": [
-        { "tipo": "capa", "kicker": "Pesquisa em agentes de IA", "titulo": "A resposta certa", "destaque": "pode esconder o caminho errado.", "foto": true },
-        { "tipo": "texto", "kicker": "O problema", "titulo": "Julgar a IA só pelo resultado engana.", "corpo": "Um agente pode entregar a resposta correta e, no caminho, consultar dado que não devia, pular uma aprovação ou repetir uma ação." },
-        { "tipo": "cartoes", "kicker": "O que eu avalio", "titulo": "Três perguntas sobre o caminho.", "itens": [["Ferramentas", "Ele usou só o que precisava?"], ["Autorização", "Pediu permissão quando devia?"], ["Efeitos", "O que mudou fora da conversa?"]], "fecho": "O resultado vem depois." },
-        { "tipo": "texto", "kicker": "Na prática", "titulo": "É isso que estudo no Nirmata.", "corpo": "Meu programa independente de pesquisa compara a nota da resposta final com evidências do processo. Ainda é piloto: publico o que já foi testado e o que ainda não foi." },
-        { "tipo": "cta", "kicker": "Para você", "titulo": "Antes de confiar numa automação, peça para ver o caminho.", "acao": "Siga para mais sobre IA confiável" }
+        {
+          "tipo": "capa",
+          "kicker": "Pesquisa em agentes de IA",
+          "titulo": "A resposta certa",
+          "destaque": "pode esconder o caminho errado.",
+          "foto": true
+        },
+        {
+          "tipo": "texto",
+          "kicker": "O problema",
+          "titulo": "Julgar a IA só pelo resultado engana.",
+          "corpo": "Um agente pode entregar a resposta correta e, no caminho, consultar dado que não devia, pular uma aprovação ou repetir uma ação."
+        },
+        {
+          "tipo": "cartoes",
+          "kicker": "O que eu avalio",
+          "titulo": "Três perguntas sobre o caminho.",
+          "itens": [
+            [
+              "Ferramentas",
+              "Ele usou só o que precisava?"
+            ],
+            [
+              "Autorização",
+              "Pediu permissão quando devia?"
+            ],
+            [
+              "Efeitos",
+              "O que mudou fora da conversa?"
+            ]
+          ],
+          "fecho": "O resultado vem depois."
+        },
+        {
+          "tipo": "texto",
+          "kicker": "Na prática",
+          "titulo": "É isso que estudo no Nirmata.",
+          "corpo": "Meu programa independente de pesquisa compara a nota da resposta final com evidências do processo. Ainda é piloto: publico o que já foi testado e o que ainda não foi."
+        },
+        {
+          "tipo": "cta",
+          "kicker": "Para você",
+          "titulo": "Antes de confiar numa automação, peça para ver o caminho.",
+          "acao": "Siga para mais sobre IA confiável"
+        }
       ],
       "caption": "Uma IA pode acertar a resposta e errar o caminho.\n\nNa minha pesquisa, olho para o que acontece no meio: quais ferramentas o agente usou, se pediu permissão quando devia e o que mudou fora da conversa.\n\nO Nirmata é um programa piloto e independente. Publico o que foi testado, o que falhou e o que ainda não tem evidência.\n\nAntes de confiar numa automação, pergunte: dá para ver o caminho?\n\n#inteligenciaartificial #agentesdeia #pesquisa #IAconfiavel"
     },
@@ -32,24 +112,104 @@
       "tema": "curso",
       "titulo": "Curso | Quanto custa?",
       "slides": [
-        { "tipo": "capa", "kicker": "IA para profissionais da beleza", "titulo": "\"Quanto custa?\"", "destaque": "não é só pergunta de preço.", "sub": "É um pedido de confiança." },
-        { "tipo": "texto", "kicker": "O erro comum", "titulo": "Responder só o número.", "corpo": "Valor seco no direct abre espaço para comparação. A cliente ainda não sabe o que está levando, e o preço fica sozinho na conversa." },
-        { "tipo": "lista", "kicker": "Uma resposta em 3 partes", "titulo": "Acolhe, explica, convida.", "itens": [["Acolhe", "\"Que bom que você me chamou!\""], ["Explica", "O que inclui, a duração do atendimento e quanto tempo o resultado dura."], ["Convida", "O valor e um horário: \"Tenho quinta às 15h. Fica bom?\""]] },
-        { "tipo": "texto", "kicker": "Onde a IA entra", "titulo": "Uma resposta-base por serviço.", "corpo": "Monte com a IA uma resposta para cada serviço que você faz e salve como mensagem rápida no WhatsApp Business. Ajuste o nome e envie em segundos." },
-        { "tipo": "cta", "kicker": "No curso", "titulo": "IA para profissionais da beleza", "corpo": "Você sai com suas respostas de preço prontas, no seu tom.", "acao": "Lista de espera no link da bio" }
+        {
+          "tipo": "capa",
+          "kicker": "IA para profissionais da beleza",
+          "titulo": "\"Quanto custa?\"",
+          "destaque": "não é só pergunta de preço.",
+          "sub": "É um pedido de confiança."
+        },
+        {
+          "tipo": "texto",
+          "kicker": "O erro comum",
+          "titulo": "Responder só o número.",
+          "corpo": "Valor seco no direct abre espaço para comparação. A cliente ainda não sabe o que está levando, e o preço fica sozinho na conversa."
+        },
+        {
+          "tipo": "lista",
+          "kicker": "Uma resposta em 3 partes",
+          "titulo": "Acolhe, explica, convida.",
+          "itens": [
+            [
+              "Acolhe",
+              "\"Que bom que você me chamou!\""
+            ],
+            [
+              "Explica",
+              "O que inclui, a duração do atendimento e quanto tempo o resultado dura."
+            ],
+            [
+              "Convida",
+              "O valor e um horário: \"Tenho quinta às 15h. Fica bom?\""
+            ]
+          ]
+        },
+        {
+          "tipo": "texto",
+          "kicker": "Onde a IA entra",
+          "titulo": "Uma resposta-base por serviço.",
+          "corpo": "Monte com a IA uma resposta para cada serviço que você faz e salve como mensagem rápida no WhatsApp Business. Ajuste o nome e envie em segundos."
+        },
+        {
+          "tipo": "cta",
+          "kicker": "No curso",
+          "titulo": "IA para profissionais da beleza",
+          "corpo": "Você sai com suas respostas de preço prontas, no seu tom.",
+          "acao": "Conheça o curso no link da bio"
+        }
       ],
-      "caption": "\"Quanto custa?\" quase nunca é só sobre preço.\n\nQuando o valor chega sozinho no direct, a cliente compara. Quando chega com contexto, ela entende o que está levando.\n\nTeste a estrutura de 3 partes:\n1. Acolhe\n2. Explica o que inclui\n3. Convida com valor e horário\n\nCom a IA, você monta uma resposta-base por serviço e salva como mensagem rápida.\n\nNo curso IA para profissionais da beleza, você sai com essas respostas prontas. Lista de espera no link da bio.\n\n#manicure #esteticista #lashdesigner #designdesobrancelhas #maquiadora #whatsappbusiness"
+      "caption": "\"Quanto custa?\" quase nunca é só sobre preço.\n\nQuando o valor chega sozinho no direct, a cliente compara. Quando chega com contexto, ela entende o que está levando.\n\nTeste a estrutura de 3 partes:\n1. Acolhe\n2. Explica o que inclui\n3. Convida com valor e horário\n\nCom a IA, você monta uma resposta-base por serviço e salva como mensagem rápida.\n\nNo Agenda em Movimento, o curso de IA para profissionais da beleza, você sai com essas respostas prontas. Link na bio.\n\n#manicure #esteticista #lashdesigner #designdesobrancelhas #maquiadora #whatsappbusiness"
     },
     {
       "id": "v2-04",
       "tema": "autoridade",
       "titulo": "Autoridade | Eu publico o que deu errado",
       "slides": [
-        { "tipo": "capa", "kicker": "Bastidores da pesquisa", "titulo": "Meu primeiro teste", "destaque": "foi invalidado.", "sub": "E eu publiquei isso.", "foto": true },
-        { "tipo": "texto", "kicker": "O que aconteceu", "titulo": "A resposta vazou antes da correção.", "corpo": "No teste cego planejado do Nirmata, o gabarito ficou exposto antes da pontuação. Um resultado assim não prova nada, então eu parei antes de pontuar." },
-        { "tipo": "texto", "kicker": "O que eu fiz", "titulo": "Registrei. Não apaguei.", "corpo": "O teste invalidado continua no repositório, com o motivo. Quem lê sabe exatamente o que foi testado, o que falhou e o que ainda não tem evidência." },
-        { "tipo": "cartoes", "kicker": "Meus princípios", "titulo": "Como eu trabalho.", "itens": [["Verificável", "Antes de impressionante."], ["Autorização explícita", "Antes de \"ficou subentendido\"."], ["Falha preservada", "Antes de histórico bonito."]] },
-        { "tipo": "cta", "kicker": "Por que isso importa", "titulo": "Quem mostra o erro, você pode conferir.", "acao": "Siga para mais sobre IA confiável" }
+        {
+          "tipo": "capa",
+          "kicker": "Bastidores da pesquisa",
+          "titulo": "Meu primeiro teste",
+          "destaque": "foi invalidado.",
+          "sub": "E eu publiquei isso.",
+          "foto": true
+        },
+        {
+          "tipo": "texto",
+          "kicker": "O que aconteceu",
+          "titulo": "A resposta vazou antes da correção.",
+          "corpo": "No teste cego planejado do Nirmata, o gabarito ficou exposto antes da pontuação. Um resultado assim não prova nada, então eu parei antes de pontuar."
+        },
+        {
+          "tipo": "texto",
+          "kicker": "O que eu fiz",
+          "titulo": "Registrei. Não apaguei.",
+          "corpo": "O teste invalidado continua no repositório, com o motivo. Quem lê sabe exatamente o que foi testado, o que falhou e o que ainda não tem evidência."
+        },
+        {
+          "tipo": "cartoes",
+          "kicker": "Meus princípios",
+          "titulo": "Como eu trabalho.",
+          "itens": [
+            [
+              "Verificável",
+              "Antes de impressionante."
+            ],
+            [
+              "Autorização explícita",
+              "Antes de \"ficou subentendido\"."
+            ],
+            [
+              "Falha preservada",
+              "Antes de histórico bonito."
+            ]
+          ]
+        },
+        {
+          "tipo": "cta",
+          "kicker": "Por que isso importa",
+          "titulo": "Quem mostra o erro, você pode conferir.",
+          "acao": "Siga para mais sobre IA confiável"
+        }
       ],
       "caption": "O primeiro teste cego do meu programa de pesquisa foi invalidado. O gabarito ficou exposto antes da pontuação, então parei antes de pontuar.\n\nEu poderia ter apagado. Preferi registrar o que aconteceu, por que invalidei e o que ainda não tem evidência.\n\nPrefiro o que dá para verificar ao que impressiona. Autorização explícita a autorização subentendida. Falha registrada a histórico bonito.\n\nQuando alguém te vender IA, pergunte o que deu errado. A resposta diz muito.\n\n#inteligenciaartificial #pesquisa #agentesdeia #IAconfiavel"
     },
@@ -58,24 +218,103 @@
       "tema": "curso",
       "titulo": "Curso | Cliente sumida",
       "slides": [
-        { "tipo": "capa", "kicker": "IA para profissionais da beleza", "titulo": "A cliente que sumiu", "destaque": "ainda pode voltar.", "sub": "Mas alguém precisa chamar." },
-        { "tipo": "texto", "kicker": "A conta", "titulo": "Chamar de volta custa menos que conquistar.", "corpo": "Ela já conhece seu trabalho, já confia em você e já sabe o caminho. Falta só um motivo e um horário." },
-        { "tipo": "lista", "kicker": "O roteiro da volta", "titulo": "Três passos, uma planilha.", "itens": [["Liste", "Quem não volta há mais de 45 dias."], ["Personalize", "Peça à IA uma mensagem que cite o último serviço."], ["Convide", "Ofereça 2 horários, não \"quando puder\"."]] },
-        { "tipo": "texto", "kicker": "E as faltas?", "titulo": "Lembrete na véspera, sempre.", "corpo": "Uma mensagem pronta para a véspera, com opção de confirmar ou remarcar. A IA escreve uma vez; você só troca nome e horário." },
-        { "tipo": "cta", "kicker": "No curso", "titulo": "IA para profissionais da beleza", "corpo": "Planilha de clientes, mensagens de volta e lembretes, montados com você.", "acao": "Lista de espera no link da bio" }
+        {
+          "tipo": "capa",
+          "kicker": "IA para profissionais da beleza",
+          "titulo": "A cliente que sumiu",
+          "destaque": "ainda pode voltar.",
+          "sub": "Mas alguém precisa chamar."
+        },
+        {
+          "tipo": "texto",
+          "kicker": "A conta",
+          "titulo": "Chamar de volta custa menos que conquistar.",
+          "corpo": "Ela já conhece seu trabalho, já confia em você e já sabe o caminho. Falta só um motivo e um horário."
+        },
+        {
+          "tipo": "lista",
+          "kicker": "O roteiro da volta",
+          "titulo": "Três passos, uma planilha.",
+          "itens": [
+            [
+              "Liste",
+              "Quem não volta há mais de 45 dias."
+            ],
+            [
+              "Personalize",
+              "Peça à IA uma mensagem que cite o último serviço."
+            ],
+            [
+              "Convide",
+              "Ofereça 2 horários, não \"quando puder\"."
+            ]
+          ]
+        },
+        {
+          "tipo": "texto",
+          "kicker": "E as faltas?",
+          "titulo": "Lembrete na véspera, sempre.",
+          "corpo": "Uma mensagem pronta para a véspera, com opção de confirmar ou remarcar. A IA escreve uma vez; você só troca nome e horário."
+        },
+        {
+          "tipo": "cta",
+          "kicker": "No curso",
+          "titulo": "IA para profissionais da beleza",
+          "corpo": "Planilha de clientes, mensagens de volta e lembretes, montados com você.",
+          "acao": "Conheça o curso no link da bio"
+        }
       ],
-      "caption": "A cliente que sumiu ainda pode voltar. Mas alguém precisa chamar.\n\nRoteiro simples:\n1. Liste quem não volta há mais de 45 dias\n2. Peça à IA uma mensagem que cite o último serviço\n3. Convide com 2 horários definidos\n\nPara as faltas sem aviso: lembrete na véspera, com opção de confirmar ou remarcar.\n\nNo curso IA para profissionais da beleza, montamos juntas a planilha de clientes e as mensagens. Lista de espera no link da bio.\n\n#manicure #esteticista #lashdesigner #cabeleireira #designdesobrancelhas #agendacheia"
+      "caption": "A cliente que sumiu ainda pode voltar. Mas alguém precisa chamar.\n\nRoteiro simples:\n1. Liste quem não volta há mais de 45 dias\n2. Peça à IA uma mensagem que cite o último serviço\n3. Convide com 2 horários definidos\n\nPara as faltas sem aviso: lembrete na véspera, com opção de confirmar ou remarcar.\n\nNo Agenda em Movimento, o curso de IA para profissionais da beleza, montamos juntas a planilha de clientes e as mensagens. Link na bio.\n\n#manicure #esteticista #lashdesigner #cabeleireira #designdesobrancelhas #agendacheia"
     },
     {
       "id": "v2-06",
       "tema": "autoridade",
       "titulo": "Autoridade | Antes de a IA falar com sua cliente",
       "slides": [
-        { "tipo": "capa", "kicker": "IA confiável no seu negócio", "titulo": "Antes de deixar a IA", "destaque": "falar com sua cliente.", "foto": true },
-        { "tipo": "cartoes", "kicker": "As 3 zonas", "titulo": "Separe o que ela pode fazer.", "itens": [["Sozinha", "Responder horário de funcionamento e endereço."], ["Com seu ok", "Confirmar valor, desconto ou encaixe."], ["Nunca", "Prometer resultado ou falar de saúde da cliente."]] },
-        { "tipo": "texto", "kicker": "Por quê", "titulo": "A cliente confia em você, não no robô.", "corpo": "Se a automação promete o que você não faria, quem responde é o seu nome. Decidir os limites antes protege sua reputação." },
-        { "tipo": "texto", "kicker": "De onde vem isso", "titulo": "É o mesmo método que uso na pesquisa.", "corpo": "Na pesquisa, chamo isso de autoridade delegada: aprovar uma ferramenta não é autorizar tudo o que ela faz." },
-        { "tipo": "cta", "kicker": "Faça agora", "titulo": "Escreva suas 3 zonas antes de ligar qualquer automação.", "acao": "Salve e mostre para quem atende com você" }
+        {
+          "tipo": "capa",
+          "kicker": "IA confiável no seu negócio",
+          "titulo": "Antes de deixar a IA",
+          "destaque": "falar com sua cliente.",
+          "foto": true
+        },
+        {
+          "tipo": "cartoes",
+          "kicker": "As 3 zonas",
+          "titulo": "Separe o que ela pode fazer.",
+          "itens": [
+            [
+              "Sozinha",
+              "Responder horário de funcionamento e endereço."
+            ],
+            [
+              "Com seu ok",
+              "Confirmar valor, desconto ou encaixe."
+            ],
+            [
+              "Nunca",
+              "Prometer resultado ou falar de saúde da cliente."
+            ]
+          ]
+        },
+        {
+          "tipo": "texto",
+          "kicker": "Por quê",
+          "titulo": "A cliente confia em você, não no robô.",
+          "corpo": "Se a automação promete o que você não faria, quem responde é o seu nome. Decidir os limites antes protege sua reputação."
+        },
+        {
+          "tipo": "texto",
+          "kicker": "De onde vem isso",
+          "titulo": "É o mesmo método que uso na pesquisa.",
+          "corpo": "Na pesquisa, chamo isso de autoridade delegada: aprovar uma ferramenta não é autorizar tudo o que ela faz."
+        },
+        {
+          "tipo": "cta",
+          "kicker": "Faça agora",
+          "titulo": "Escreva suas 3 zonas antes de ligar qualquer automação.",
+          "acao": "Salve e mostre para quem atende com você"
+        }
       ],
       "caption": "Antes de deixar uma IA responder suas clientes, decida três coisas:\n\nO que ela faz sozinha.\nO que precisa do seu ok.\nO que ela nunca faz.\n\nNa minha pesquisa em agentes de IA, chamo isso de autoridade delegada: aprovar uma ferramenta não é autorizar tudo o que ela faz.\n\nNo seu negócio, a regra é a mesma. A cliente confia no seu nome.\n\nSalve e escreva as suas 3 zonas hoje.\n\n#inteligenciaartificial #empreendedorismofeminino #IAconfiavel #automacao"
     }
